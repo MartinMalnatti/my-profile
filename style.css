@@ -36,7 +36,7 @@ h3{
 	padding: 0;
 	background-image: url("images/fondo.jpg");
 	background-size: cover;
-	/*background-color: #4B2840;*/
+	
 }
 
 
@@ -53,14 +53,11 @@ h3{
 
 .header img{
 	width: 50%;
-  	/*border: 11px solid #d2d200;
-  	border-radius: 50%*/;
+  	
 	
 
   }
-  /*h3{
-  	color: white;
-  	}*/
+  
 
 
   	#descripcion{
@@ -69,7 +66,7 @@ h3{
   		color: white;
   		font-family: 'Bangers';
   		text-shadow: 1px 1px 2px black;
-  		/*font-style: italic;*/
+  		
   	}
 
   	.carousel-inner img{
@@ -192,24 +189,21 @@ h3{
 
   		}
 		.contacto h6{
-  		font-size: 4.5vw;
-  		padding-bottom: 5%;
-  		padding-top: 5%;
+			font-size: 4.5vw;
+			padding-bottom: 5%;
+			padding-top: 5%;
   		}
 		footer{
-  		font-size: 5vw;
-  		text-align: center;
-  		background-color:  black;
+			font-size: 5vw;
+			text-align: center;
+			background-color:  black;
   		}
 		.contacto p{
-  		font-size: 5vw;
+			font-size: 5vw;
 		}
 		.header img{
-		width: 80%;
-		/*border: 11px solid #d2d200;
-		border-radius: 50%*/;
-
-
+			width: 65%;
+		
 	  	}
 			
   	}
