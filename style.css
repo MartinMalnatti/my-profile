@@ -14,7 +14,7 @@ body{
 	
 }
 .main-header{
-	background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("IMAGES/BANNER2.PNG");
+	background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("images/banner-2.PNG");
 
 	background-size: cover;
 	background-position: bottom;
@@ -171,5 +171,15 @@ h3{
   		/* For a screen < 540px, this CSS will be read */
   		.container {
   			width: 300px;
+  		}
+  		h1{
+  			font-size: 8.8vw;
+  		}
+  		h2{
+  			font-size: 6vw;
+  		}
+  		h3{
+  			font-size: 5vw;
+
   		}
   	}
