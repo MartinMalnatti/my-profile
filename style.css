@@ -14,7 +14,7 @@ body{
 	
 }
 .main-header{
-	background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("images/banner-2.png");
+	background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("images/banner.png");
 
 	background-size: cover;
 	background-position: bottom;
