@@ -55,6 +55,7 @@ h3{
 	width: 50%;
   	/*border: 11px solid #d2d200;
   	border-radius: 50%*/;
+	
 
   }
   /*h3{
@@ -145,6 +146,14 @@ h3{
   		.header-1 {
   			min-width: 600px;
   		}
+		.header img{
+		min-width: 400px;
+			
+		/*border: 11px solid #d2d200;
+		border-radius: 50%*/;
+
+
+		 }
 
 
 
