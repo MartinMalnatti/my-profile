@@ -182,4 +182,14 @@ h3{
   			font-size: 5vw;
 
   		}
+		.contacto h6{
+  		font-size: 4.5vw;
+  		padding-bottom: 5%;
+  		padding-top: 5%;
+  		}
+		footer{
+  		font-size: 5vw;
+  		text-align: center;
+  		background-color:  black;
+  		}
   	}
