@@ -14,7 +14,7 @@ body{
 	
 }
 .main-header{
-	background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("images/banner.png");
+	background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("images/banner.jpg");
 
 	background-size: cover;
 	background-position: bottom;
@@ -147,7 +147,7 @@ h3{
   			min-width: 600px;
   		}
 		.header img{
-		min-width: 400px;
+		min-width: 560px;
 			
 		/*border: 11px solid #d2d200;
 		border-radius: 50%*/;
