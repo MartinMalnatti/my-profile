@@ -204,5 +204,12 @@ h3{
 		.contacto p{
   		font-size: 5vw;
 		}
+		.header img{
+		width: 80%;
+		/*border: 11px solid #d2d200;
+		border-radius: 50%*/;
+
+
+	  	}
 			
   	}
